@@ -1,3 +1,4 @@
 conllu
 ipython
 requests[socks]
+webvtt-py
